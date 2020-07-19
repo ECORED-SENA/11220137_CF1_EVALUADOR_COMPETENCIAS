@@ -30,11 +30,5 @@
     "slug": "actividad-1",
     "title": "Actividad didáctica",
     "path": "pages/actividad-1.html"
-  },
-  {
-    "icon": "fa fa-question-circle",
-    "slug": "demo",
-    "title": "demo",
-    "path": "pages/1-tema.html"
   }
 ]
