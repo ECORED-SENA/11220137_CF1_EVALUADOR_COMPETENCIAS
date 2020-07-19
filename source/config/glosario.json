@@ -1,64 +1,59 @@
 [
   {
+    "letter": "B",
+    "terms": [
+      {
+        "title": "BNIE:",
+        "desciption": "Banco Nacional de Instrumentos de Evaluación."
+      }
+    ]
+  },
+  {
+    "letter": "D",
+    "terms": [
+      {
+        "title": "DSNFT:",
+        "desciption": "Dirección del Sistema Nacional de Formación para el Trabajo."
+      }
+    ]
+  },
+  {
     "letter": "E",
     "terms": [
       {
-        "title": "Expresión:",
-        "desciption": "Línea de código compuesta por variables y operadores."
+        "title": "ECCL:",
+        "desciption": "Evaluación y Certificación de Competencias Laborales."
       }
     ]
   },
   {
-    "letter": "I",
+    "letter": "N",
     "terms": [
       {
-        "title": "Interfaz:",
-        "desciption": "Punto de acceso gráfico de un programa."
+        "title": "NCL:",
+        "desciption": "Norma de Competencia Laboral."
+      },
+      {
+        "title": "NSCL:",
+        "desciption": "Norma Sectorial de Competencia Laboral."
+      }
+    ]
+  },         
+  {
+    "letter": "P",
+    "terms": [
+      {
+        "title": "PQRSF:",
+        "desciption": "Peticiones, Quejas, Reclamos, Sugerencias y felicitaciones."
       }
     ]
   },
   {
-    "letter": "J",
+    "letter": "S",
     "terms": [
       {
-        "title": "Jerarquía:",
-        "desciption": "Orden en el cual deben ser evaluadas las distintas operaciones de una expresión."
-      }
-    ]
-  },
-  {
-    "letter": "M",
-    "terms": [
-      {
-        "title": "Main:",
-        "desciption": "Método principal de Java que actúa como punto de acceso para los programas."
-      }
-    ]
-  },  
-  {
-    "letter": "O",
-    "terms": [
-      {
-        "title": "Operador:",
-        "desciption": "Carácter utilizado para efectuar diferentes acciones sobre las variables."
-      }
-    ]
-  },      
-  {
-    "letter": "T",
-    "terms": [
-      {
-        "title": "Tipo de dato:",
-        "desciption": "Nombre que identifica la clase de información que puede almacenar una variable."
-      }
-    ]
-  },
-  {
-    "letter": "V",
-    "terms": [
-      {
-        "title": "Variable:",
-        "desciption": "Espacio de memoria utilizado para almacenar un dato."
+        "title": "SFCH:",
+        "desciption": "Sistema de Formación de Capital Humano."
       }
     ]
   }  
