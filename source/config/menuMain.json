@@ -9,16 +9,16 @@
     "id": 1,
     "icon": "fa fa-play-circle",
     "slug": "introduccion",
-    "title": "1. Introduccion",
+    "title": "Introduccion",
     "breadcrumb": ["Inicio","Introducción"],
     "path": "pages/tema-1.html"     
   },
 
   {
     "id": 2,
-    "icon": "fa fa-file-text-o",
+    "icon": "play",
     "slug": "normativa-vigente",
-    "title": "2. Normativa vigente proceso ECCL",
+    "title": "1. Normativa vigente proceso ECCL",
     "breadcrumb": [
       "Inicio",
       "Tema 2"
